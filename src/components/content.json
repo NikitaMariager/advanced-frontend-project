@@ -1,0 +1,81 @@
+{
+  "myContent": [
+    {
+      "backgroundCol": "#abcfe6",
+      "header": "Design is the",
+      "secondText": "matter of choise",
+      "second": "#184059",
+      "button": "WhatWeDo",
+      "component": "none",
+      "logo": "../assets/logo/logo-a.png",
+      "img": "../../assets/front-desktop/front-what-we-do-link.png",
+      "mobileImg": "../../assets/front-mobil/weba-2-mobil-whatwedo.png",
+      "text": [
+        "But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will give you an complete account of the system, and expond the actual  teachings of the great expolrer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue rationally encounter consequences that are.",
+
+        "But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will give you an complete account of the system, and expond the actual  teachings of the great expolrer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue rationally encounter consequences that are.",
+        "because those who do not know how to pursue rationally encounter consequences that are."
+      ],
+      "contactButtons": [
+        {
+          "img": "",
+          "mail": ""
+        }
+      ]
+    },
+    {
+      "backgroundCol": "#bfddef",
+      "header": "Keeping your all",
+      "secondText": "upto date",
+      "second": "#5d8aa6",
+      "button": "MaintainAble",
+      "component": "none",
+      "logo": "../assets/logo/logo-a.png",
+      "img": "../../assets/front-desktop/front-maintainable-link.png",
+      "mobileImg": "../../assets/front-mobil/weba-3-mobil-maintainable.png",
+      "text": [
+        "But i must explain to you how all this mistaken idea of denouncing",
+
+        "But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will give you an complete account of the system, and expond the actual  teachings of the great expolrer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue rationally encounter consequences that are.",
+        "But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will give you an complete account of the system, and expond the actual  teachings of the great expolrer of the truth, the master-builder of human happiness.."
+      ],
+      "contactButtons": [
+        {
+          "img": "",
+          "mail": ""
+        }
+      ]
+    },
+    {
+      "backgroundCol": "#ffb472",
+      "header": "There for you and",
+      "secondText": "care for you ",
+      "second": "#bf7b3f",
+      "button": "GetInTouch",
+      "img": "../../assets/front-desktop/front-getintouch-link.png",
+      "mobileImg": "../../assets/front-mobil/weba-mobil.getintouch.png",
+      "component": "Contact",
+      "logo": "../assets/logo/logo-b.png",
+      "pop": "some text",
+      "text": [
+        "But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will give you an complete account of the system, and expond the actual  teachings of the great expolrer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue rationally encounter consequences that are.",
+
+        "But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will give you an complete account of the system, and expond the actual  teachings of the great expolrer of the truth, the master-builder of human happiness. "
+      ],
+      "contactButtons": [
+        {
+          "img": "../assets/front-desktop/whatwedo-small.png",
+          "mail": "lt@coolish.com"
+        },
+        {
+          "img": "../assets/front-desktop/maintainable-small.png",
+          "mail": "pr@coolish.com"
+        },
+        {
+          "img": "../assets/front-desktop/getintouch-small.png",
+          "mail": "mn@coolish.com"
+        }
+      ]
+    }
+  ]
+}
